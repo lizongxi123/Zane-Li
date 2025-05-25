@@ -1,2 +1,3 @@
-# Zane-Li
+# Zane-Li BUPT程序设计作业
 基于Handdetect+SpeechRecognition的智能绘画系统
+master下有负责语音识别和手部识别的代码
